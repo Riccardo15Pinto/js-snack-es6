@@ -63,3 +63,14 @@
 ---
 ---
 ## logica
+
+- recupero elemento dal DOM
+- creo una funzione che generi numeri random
+- creo un Array di oggetti conteneti:
+
+    - nome
+    - punti fatti (funzione numeri random)
+    - falli subiti (funzione numeri random)
+
+- genero un nuovo array contenente due dei valori indicati invece che tre
+- stampo in pagina
